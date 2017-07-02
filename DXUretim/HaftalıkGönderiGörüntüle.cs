@@ -56,7 +56,9 @@ namespace DXUretim
             gridControl5.DataSource = dt;
              gridControl6.DataSource = dt;
              gridControl7.DataSource = dt;
-           
+
+            gridControl8.DataSource = dt;
+
            // gridControl9.DataSource = dt;
             // dataGridView1.DataSource = dt;
 
