@@ -222,7 +222,7 @@
             // 
             // defaultLookAndFeel1
             // 
-            this.defaultLookAndFeel1.LookAndFeel.SkinName = "Stardust";
+            this.defaultLookAndFeel1.LookAndFeel.SkinName = "VS2010";
             // 
             // ribbonControl1
             // 
@@ -236,7 +236,7 @@
             this.ribbonControl1.Name = "ribbonControl1";
             this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPage1});
-            this.ribbonControl1.Size = new System.Drawing.Size(1203, 143);
+            this.ribbonControl1.Size = new System.Drawing.Size(1195, 142);
             this.ribbonControl1.StatusBar = this.ribbonStatusBar1;
             // 
             // barButtonItem1
@@ -265,10 +265,10 @@
             // 
             // ribbonStatusBar1
             // 
-            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 722);
+            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 720);
             this.ribbonStatusBar1.Name = "ribbonStatusBar1";
             this.ribbonStatusBar1.Ribbon = this.ribbonControl1;
-            this.ribbonStatusBar1.Size = new System.Drawing.Size(1203, 31);
+            this.ribbonStatusBar1.Size = new System.Drawing.Size(1195, 33);
             // 
             // listBoxControl1
             // 
@@ -486,7 +486,7 @@
             this.Appearance.Options.UseBackColor = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1203, 753);
+            this.ClientSize = new System.Drawing.Size(1195, 753);
             this.Controls.Add(this.groupControl7);
             this.Controls.Add(this.groupControl6);
             this.Controls.Add(this.groupControl5);
